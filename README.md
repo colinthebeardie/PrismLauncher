@@ -4,8 +4,12 @@
   <source media="(prefers-color-scheme: light)" srcset="/program_info/org.prismlauncher.PrismLauncher.logo.svg">
   <img alt="Prism Launcher" src="/program_info/org.prismlauncher.PrismLauncher.logo.svg" width="40%">
 </picture>
-</p>
-
+</p><br /><p>
+PrismLauncher cracked fork<br />
+This is NOT affflicated with PrismLauncher<br />
+I do not believe in piracy, but M$ already has $20 from me for buting minecraft pocket edition on all of my devices<br />
+sorry prismlauncher official, your api keys are mine :(
+  </p>
 <p align="center">
   Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
   <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
